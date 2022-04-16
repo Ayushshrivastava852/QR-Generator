@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\bin\Debug\QR Generator.exe
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\bin\Debug\QR Generator.pdb
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\bin\Debug\QR Generator.xml
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\obj\x86\Debug\QR_Generator.Form1.resources
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\obj\x86\Debug\QR_Generator.Resources.resources
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\obj\x86\Debug\QR Generator.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\obj\x86\Debug\QR Generator.exe
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\obj\x86\Debug\QR Generator.xml
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\obj\x86\Debug\QR Generator.pdb
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\bin\Debug\QR Generator.exe.manifest
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\bin\Debug\QR Generator.application
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\obj\x86\Debug\QR Generator.exe.manifest
+C:\Users\admin\Desktop\qr\QR Generator\QR Generator\obj\x86\Debug\QR Generator.application
